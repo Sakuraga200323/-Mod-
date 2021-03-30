@@ -3,6 +3,7 @@
 - バニラに存在する**木の剣**等の上位互換
 - **黒曜石の剣**等の特殊素材の武器
 - 剣の素材となる**ハンドル**、**結晶**、**結晶鉱石**
+- 上記アイテム、鉱石の追加
 # DownloadJar
 [SwordMod-1.0.0.jar](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.0.0.jar)
 # Recipe
