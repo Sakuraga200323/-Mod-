@@ -6,6 +6,7 @@ Minecraft ver1.12.2
 - 剣の素材となる**ハンドル**、**結晶**、**結晶鉱石**
 
 上記アイテム、鉱石の追加をします。<br>
+**バニラ剣+**系は、攻撃力が1.5倍、耐久値が2倍、くらいのスペックとなっております。<br>
 テクスチャはすべて自作です。コピーして使うのは構いませんが、二次配布はおやめください。
 # DownloadJar
 [SwordMod-1.0.0.jar](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.0.0.jar)
