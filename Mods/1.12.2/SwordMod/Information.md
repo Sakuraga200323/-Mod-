@@ -11,7 +11,7 @@ Minecraft ver1.12.2対応です。
 アップデート、バグ修正ログは[こちら](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/UpdateHistory.md)
 # DownloadJar
 [SwordMod-1.0.0.jar](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.0.0.jar)
-# Recipe
+# Recipes
 |name|recipe|description|
 |:--:|:--:|:--:|
 | 携帯用食料 |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E6%90%BA%E5%B8%AF%E9%A3%9F%E6%96%99%E3%83%AC%E3%82%B7%E3%83%94%E7%94%BB%E5%83%8F.png?raw=true)|食料|
