@@ -1,5 +1,5 @@
 # ModDescription
-Minecraft ver1.12.2
+Minecraft ver1.12.2対応です。
 - パンの上位互換食料
 - バニラに存在する**木の剣**等の上位互換
 - **黒曜石の剣**等の特殊素材の武器
@@ -7,7 +7,8 @@ Minecraft ver1.12.2
 
 上記アイテム、鉱石の追加をします。<br>
 **バニラ剣＋**系は、攻撃力が1.5倍、耐久値が2倍、くらいのスペックとなっております。<br>
-テクスチャはすべて自作です。コピーして使うのは構いませんが、二次配布はおやめください。
+テクスチャはすべて自作です。コピーして使うのは構いませんが、二次配布はおやめください。<br>
+アップデート、バグ修正ログは[こちら](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/UpdateHistory.md)
 # DownloadJar
 [SwordMod-1.0.0.jar](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.0.0.jar)
 # Recipe
