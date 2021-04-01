@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C",
+    "H"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "sword_mod:wooden_crystal",
+        "data": 0
+      }
+    ],
+    "H": [
+      {
+        "item": "sword_mod:sword_handle",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "sword_mod:plus_wooden_sword",
+    "data": 0,
+    "count": 1
+  }
+}

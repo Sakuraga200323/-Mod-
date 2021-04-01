@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CSC",
+    "CCC"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "sword_mod:crystal",
+        "data": 0
+      }
+    ],
+    "S": [
+      {
+        "item": "sword_mod:obsidian_sword",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "sword_mod:plus_obsidian_sword",
+    "data": 0,
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CMC",
+    " C "
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "sword_mod:crystal",
+        "data": 0
+      }
+    ],
+    "M": [
+      {
+        "item": "sword_mod:black_diamond_block",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "sword_mod:black_diamond_crystal",
+    "data": 0,
+    "count": 1
+  }
+}

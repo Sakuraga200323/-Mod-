@@ -1,0 +1,26 @@
+item.food_chip.name=FoodChip
+item.sword_handle.name=Sword Grip
+item.black_diamond.name=Black Diamond
+item.crystal.name=Crystal
+item.wooden_crystal.name=Wooden Crystal
+item.stone_crystal.name=Stone Crystal
+item.iron_crystal.name=Iron Crystal
+item.golden_crystal.name=Golden Crystal
+item.diamond_crystal.name=Diamond Crystal
+item.black_diamond_crystal.name=Black Diamond Crystal
+item.plus_wooden_sword.name=Plus Wooden Sword
+item.plus_stone_sword.name=Plus Stone Sword
+item.plus_iron_sword.name=Plus Iron Sword
+item.plus_golden_sword.name=Plus Golden Sword
+item.plus_diamond_sword.name=Plus Diamond Sword
+item.plus_obsidian_sword.name=Plus Obsidian Sword
+item.plus_ice_sword.name=Plus Ice Sword
+item.ender_sword.name=Ender Sword
+item.ice_sword.name=Ice Sword
+item.obsidian_sword.name=Obsidian Sword
+item.sword_of_eclipse.name=Plus Black Diamond Sword
+
+tile.crystal_ore.name=Crystal Ore
+tile.black_diamond_block.name=Black Diamond Block
+
+itemGroup.ModTab.name=SwordMod

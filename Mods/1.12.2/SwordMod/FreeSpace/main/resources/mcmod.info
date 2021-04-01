@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "sword_mod",
+    "name": "SwordMod",
+    "description": "This Mod adds some new swords and recipes!!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Tsukineko"
+    ],
+    "credits": "",
+    "logoFile": "assets/sword_mod/logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

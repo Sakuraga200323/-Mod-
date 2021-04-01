@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "B",
+    "B"
+  ],
+  "key": {
+    "B": [
+      {
+        "item": "minecraft:bread",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "sword_mod:food_chip",
+    "data": 0,
+    "count": 2
+  }
+}

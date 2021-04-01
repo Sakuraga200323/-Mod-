@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": [
+      {
+        "item": "sword_mod:black_diamond",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "sword_mod:black_diamond_block",
+    "data": 0,
+    "count": 1
+  }
+}

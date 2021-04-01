@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "B",
+    "H"
+  ],
+  "key": {
+    "B": [
+      {
+        "item": "sword_mod:black_diamond_crystal",
+        "data": 0
+      }
+    ],
+    "H": [
+      {
+        "item": "sword_mod:sword_handle",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "sword_mod:sword_of_eclipse",
+    "data": 0,
+    "count": 1
+  }
+}

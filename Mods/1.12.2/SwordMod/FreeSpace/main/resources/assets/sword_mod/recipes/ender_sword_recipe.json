@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E",
+    "E",
+    "H"
+  ],
+  "key": {
+    "E": [
+      {
+        "item": "minecraft:ender_pearl",
+        "data": 0
+      }
+    ],
+    "H": [
+      {
+        "item": "sword_mod:sword_handle",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "sword_mod:ender_sword",
+    "data": 0,
+    "count": 1
+  }
+}

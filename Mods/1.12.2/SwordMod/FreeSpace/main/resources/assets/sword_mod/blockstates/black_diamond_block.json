@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "sword_mod:blocks/black_diamond_block"
+    },
+    "model": "sword_mod:black_diamond_block",
+    "uvlock": false
+  },
+  "variants": {
+    "normal": [{
+    }],
+    "inventory": [{
+    }]
+  }
+}
