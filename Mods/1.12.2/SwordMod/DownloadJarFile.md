@@ -8,5 +8,5 @@ c -> バグ当修正<br>
 なので**b**が変更されている場合は、**変更点**をよく読んでダウンロードしてください。
 |ファイル(Ver昇順)|変更点|ダウンロード|
 |:--:|:-:|:-:|
-|SwordMod-1.1.0.jar|- **結晶ブロック**追加- **黒夜光珠の剣**のID変更、元の剣は消えます- 内部コードの変更|[<img src="http://dollsent.jp/wp-content/uploads/2010/11/botton.png" width=75>](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.1.0.jar)|
+|SwordMod-1.1.0.jar|[New]**結晶ブロック**追加<br>[Fix]**黒夜光珠の剣**のID変更、**元の剣は消えます**<br>[System]内部コードの変更<br>|[<img src="http://dollsent.jp/wp-content/uploads/2010/11/botton.png" width=75>](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.1.0.jar)|
 |SwordMod-1.0.0.jar|配布開始|[<img src="http://dollsent.jp/wp-content/uploads/2010/11/botton.png" width=75>](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.0.0.jar)|
