@@ -8,7 +8,7 @@ c -> バグ当修正<br>
 特に **b** が変更されている場合は、一部アイテムの修正のために**旧アイテムが消える可能性**がございます。
 |ファイル(Ver昇順)|変更点|ダウンロード|
 |:--:|:-:|:-:|
-|SwordMod-1.1.0.jar|≪**結晶ブロック**≫の追加<br>≪**黒夜光珠の剣**≫のID変更<br>⚠ver1.1.0以前の≪**黒夜光珠の剣**≫の消滅⚠<br>内部コードの変更<br>|[<img src="http://dollsent.jp/wp-content/uploads/2010/11/botton.png" width=75>](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.1.0.jar)|
-|SwordMod-1.0.0.jar|配布開始|[<img src="http://dollsent.jp/wp-content/uploads/2010/11/botton.png" width=75>](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/SwordMod-1.0.0.jar)|
+|SwordMod-1.1.0.jar|≪**結晶ブロック**≫の追加<br>≪**黒夜光珠の剣**≫のID変更<br>⚠ver1.1.0以前の≪**黒夜光珠の剣**≫の消滅⚠<br>内部コードの変更<br>|[<img src="http://dollsent.jp/wp-content/uploads/2010/11/botton.png" width=75>](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/Files/SwordMod-1.1.0.jar)|
+|SwordMod-1.0.0.jar|配布開始|[<img src="http://dollsent.jp/wp-content/uploads/2010/11/botton.png" width=75>](https://github.com/Sakuraga200323/-Mod-/raw/main/Mods/1.12.2/SwordMod/Files/SwordMod-1.0.0.jar)|
 
 [Top🔙](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/Top.md)
