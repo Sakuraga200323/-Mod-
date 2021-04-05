@@ -17,3 +17,5 @@
 | 永久氷塊の剣+ |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E6%B0%B7%E5%A1%8A%E3%81%AE%E5%89%A3+.png?raw=true)||
 | 黒曜石の剣 |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E9%BB%92%E6%9B%9C%E7%9F%B3%E3%81%AE%E5%89%A3.png?raw=true)||
 | 黒曜石の剣+ |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E9%BB%92%E6%9B%9C%E7%9F%B3%E3%81%AE%E5%89%A3+.png?raw=true)||
+
+[Top🔙](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/Top.md)
