@@ -9,3 +9,4 @@ Minecraft ver1.12.2対応です。
 **バニラ剣＋**系は、攻撃力が1.5倍、耐久値が2倍、くらいのスペックとなっております。<br>
 テクスチャはすべて自作です。コピーして使うのは構いませんが、二次配布はおやめください。<br>
 
+[Top🔙](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/Top.md)
