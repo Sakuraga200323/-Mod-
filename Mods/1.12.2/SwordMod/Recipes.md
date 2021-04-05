@@ -12,7 +12,7 @@
 | 黄金結晶 |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E9%BB%84%E9%87%91%E7%B5%90%E6%99%B6%E3%83%AC%E3%82%B7%E3%83%94%E7%94%BB%E5%83%8F.png?raw=true)|剣の素材|
 | 夜光珠結晶 |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E5%A4%9C%E5%85%89%E7%8F%A0%E7%B5%90%E6%99%B6%E3%83%AC%E3%82%B7%E3%83%94%E7%94%BB%E5%83%8F.png?raw=true)|剣の素材|
 | 黒夜光珠結晶 |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E9%BB%92%E5%A4%9C%E5%85%89%E7%8F%A0%E7%B5%90%E6%99%B6%E3%83%AC%E3%82%B7%E3%83%94%E7%94%BB%E5%83%8F.png?raw=true)|剣の素材|
-| ～の剣+ |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E6%9C%A8%E3%81%AE%E5%89%A3+%E3%83%AC%E3%82%B7%E3%83%94%E7%94%BB%E5%83%8F.png?raw=true)|各結晶で作成可能|
+  | ～の剣+ |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E6%9C%A8%E3%81%AE%E5%89%A3+%E3%83%AC%E3%82%B7%E3%83%94%E7%94%BB%E5%83%8F.png?raw=true)|上記６つの結晶で作成可能|
 | 永久氷塊の剣 |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E6%B0%B7%E5%A1%8A%E3%81%AE%E5%89%A3.png?raw=true)||
 | 永久氷塊の剣+ |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E6%B0%B7%E5%A1%8A%E3%81%AE%E5%89%A3+.png?raw=true)||
 | 黒曜石の剣 |![](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/recipes_img/%E9%BB%92%E6%9B%9C%E7%9F%B3%E3%81%AE%E5%89%A3.png?raw=true)||
