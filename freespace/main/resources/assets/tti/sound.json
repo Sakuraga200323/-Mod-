@@ -1,0 +1,11 @@
+{
+  "flame": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sword_mod:items/entity_guided_bullet_shoot",
+        "stream": false
+      }
+    ]
+  }
+}
