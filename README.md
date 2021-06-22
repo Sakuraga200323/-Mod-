@@ -7,4 +7,4 @@ Minecraftのver別に張っておきました。青文字をクリックする�
 ## ver1.12.2
 | Mod | Description |
 | :-- | :-- |
-| [SwordMod](https://github.com/Sakuraga200323/-Mod-/raw/main/SwordMod-1.0.0.jar) | 幾つかの剣とその素材を追加します。 |
+| [SwordMod](https://github.com/Sakuraga200323/-Mod-/blob/main/Mods/1.12.2/SwordMod/Top.md) | 幾つかの剣とその素材を追加します。 |
